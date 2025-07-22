@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ThreeNumbers {
     public static void main(String[] args) {
-     Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         int num1;
         int num2;
         int num3;

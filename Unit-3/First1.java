@@ -10,7 +10,7 @@ public class First1 {
         System.out.println(true);
     }
         else{
-            Systam.out.println(false);
+            System.out.println(false);
 
         }
     }
